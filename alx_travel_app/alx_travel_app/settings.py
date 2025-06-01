@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'alx_travel_app.listings',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
